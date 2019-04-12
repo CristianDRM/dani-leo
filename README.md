@@ -1,5 +1,11 @@
 
-This repository was created to store the resources of programming course that I and Ariadni Chioquetta creates to teach Danielle Madrid and Leonardo Gomes about important concepts of being a developer.
+This repository was created to store the resources of programming course that I and Ariadni Chioquetta creates to teaches about important concepts of being a developer:
+ 
+Padawans:
+* Danielle Madrid
+* Leonardo Gomes
+* Émerson Teixeira
+
 
 ## Structure
 This repository doesn't represent a single project, but modules and submodules of Study.
