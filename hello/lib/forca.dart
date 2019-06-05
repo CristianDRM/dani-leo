@@ -6,9 +6,7 @@ class Forca extends StatelessWidget {
 
   Widget build(BuildContext context) {
     // Material -> home: Scaffold -| 1) appbar 2) body
-    return MaterialApp(
-      title: 'Jogo da forca',
-      home: Scaffold(
+    return Scaffold(
         appBar: AppBar(title: Text('Forca')),
         body: Padding(
           padding: const EdgeInsets.all(40),
@@ -29,7 +27,6 @@ class Forca extends StatelessWidget {
             ],
           ),
         ),
-      ),
     );
   }
 }
