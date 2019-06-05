@@ -7,7 +7,7 @@ class Exercises extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(title: Text('exercises')),
       body: ListView(children: <Widget>[
-      ListTile(title: Text('Jogo da Forca'), onTap: () => Navigator.of(context).pushNamed('forca'))
+      ListTile(title: Text('Jogo da Forca'), onTap: () => Navigator.of(context).pushNamed('/forca'))
       ],)
     );
   }
